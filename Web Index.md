@@ -1,7 +1,7 @@
 ---
 title: "Index Homepage"
 permalink: /
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
 ---
 
 1234
