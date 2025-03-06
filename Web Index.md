@@ -2,7 +2,7 @@
 title: "Index Homepage"
 permalink: /
 layout: default
-theme: jekyll-theme-Architect
+theme: jekyll-theme-architect
 ---
 
 
