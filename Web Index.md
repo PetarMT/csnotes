@@ -1,7 +1,7 @@
 ---
 title: "Index Homepage"
 permalink: /
-theme: jekyll-theme-merlot
+theme: leap-day@v0.2.0
 ---
 
 1234
