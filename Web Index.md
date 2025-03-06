@@ -1,7 +1,6 @@
 ---
 title: "Index Homepage"
 permalink: /
-layout: default
 theme: jekyll-theme-architect
 ---
 
