@@ -1,7 +1,7 @@
 ---
 title: "Index"
 permalink: /
-theme: leap-day@v0.2.0
+theme: slate@v0.2.0
 ---
 
 1234
