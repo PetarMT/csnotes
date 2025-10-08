@@ -1,5 +1,5 @@
 ---
-title: "Index Homepage"
+title: "Index"
 permalink: /
 theme: leap-day@v0.2.0
 ---
